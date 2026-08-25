@@ -6,7 +6,7 @@
 // @author       Yellow Web / Modified
 // @match        https://www.facebook.com/*
 // @grant        none
-// @updateURL    ТУТ_БУДЕТ_ССЫЛКА_НА_RAW_ФАЙЛ_ДЛЯ_АВТООБНОВЛЕНИЯ
+// @updateURL    https://github.com/traffic-comp/fb-blocker/raw/refs/heads/main/user.js
 // ==/UserScript==
 
 (function() {
