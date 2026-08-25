@@ -6,7 +6,7 @@
 // @author       Yellow Web / Modified
 // @match        https://www.facebook.com/*
 // @grant        none
-// @updateURL    https://github.com/traffic-comp/fb-blocker/raw/refs/heads/main/user.js
+// @updateURL    https://github.com/traffic-comp/fb-blocker/raw/refs/heads/main/fb-blocker.user.js
 // ==/UserScript==
 
 (function() {
